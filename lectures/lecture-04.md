@@ -78,19 +78,19 @@
     - On-site meeting
     - Letters
     - Campaign communication
-  - Implementing and tracking direct mailing, internet, and traid fair campaigns based on customer attributes.
-- Pre-sales documetns need to be managed within the presales activities:
+  - Implementing and tracking direct mailing, internet, and trade fair campaigns based on customer attributes.
+- Pre-sales documents need to be managed within the presales activities:
   Inquiries and Quotations. These documents help identify possible sales related activities and determine sales probability.
 - The ultimate goal of all pre-sales activities is to equip the sales technician
-  with all the information necessary to negotitate and complete the potential
+  with all the information necessary to negotiate and complete the potential
   sale.
 - Information needed:
-  - Past sales activitiy
+  - Past sales activity
   - Past communication
   - Contact information
   - General Company info
   - Credit limits and usage
-  - Current backorders
+  - Current back-orders
 - $360 \degree$ view of your customer.
 
 ### Inquiry
@@ -105,13 +105,11 @@
 
 ### Quotation
 
-- The quotation presents the customer with a legally binding offer to deliver
-  specific products or a selection of a certain amount of porducts in a
-  specified timeframe at a pre-defined price.
+- The quotation presents the customer with a legally binding offer to deliver specific products or a selection of a certain amount of products in a specified time frame at a pre-defined price.
 
 ### Sales Order Processing
 
-- Sales order processing: series of activiites that must take place to record a
+- Sales order processing: series of activities that must take place to record a
   sales order.
 - Sales order can start from a quotation or inquiry generated in the pre-sales
   step or just a call-in from customers.
@@ -134,7 +132,7 @@
 - The sales order contains all of the information needed to process your
   customers request, the following information is determined for each sales
   order:
-  - Delivering Scehedule
+  - Delivering Schedule
   - Shipping point and route determination
   - Availability Check
   - Transfer of requirements to MRP
@@ -154,7 +152,7 @@
 
 ![](https://i.loli.net/2019/10/28/HmJ4egMDl2UdT3W.png)
 
-#### Foward Scheduling
+#### Forward Scheduling
 
 ![forward scheduling](https://i.loli.net/2019/10/28/HcmCl2T4Sujby7W.png)
 
@@ -191,8 +189,8 @@
 - Available-to-Promise (ATP) check
   - SAP ERP system checks company's inventory records and production planning records to see whether:
     - Requested material is available
-    - Requested marterial can be delivered on the date the customer desires
-  - Incluides expected shipping time
+    - Requested material can be delivered on the date the customer desires
+  - Includes expected shipping time
 - System can recommend an increase in planning production if a shortfall is
   expected.
 
@@ -223,7 +221,7 @@
 - Even that indicates the legal change in ownership of the products
 - Reduces inventory and enters Cost of Goods Sold
 - Automatically updates the General Ledger (G/L) accounts
-- Ends the shipping process and updates the staus of the shipping documents.
+- Ends the shipping process and updates the status of the shipping documents.
 
 ### Billing
 
@@ -231,10 +229,10 @@
   - The sales order (Order-based billing), and/or
   - The delivery document (Delivery-based billing)
 - The billing process is used to generate customer invoice which can be mailed, faxed, or transmitted electronically to the customer.
-- It will udpate the customer's credit status.
+- It will update the customer's credit status.
 - The billing document will automatically create a debit posting to your
   customer sub-ledger account and credit your revenue account.
-- At this point that the salese process is passed over to Financial Accounting
+- At this point that the sales process is passed over to Financial Accounting
   to await payment.
 
 ### Payment (Receipt)
@@ -268,7 +266,7 @@
   - Contact management tool
     - To make sure that information about sales contacts is available throughout the organisation
   - Sales activity manager
-    - Supports a strategic and organised approach to sales activity planning and can help make sure that follow-up activities are acoomplished.
+    - Supports a strategic and organised approach to sales activity planning and can help make sure that follow-up activities are accomplished.
 
 ### The Benefits of CRM
 
@@ -283,6 +281,6 @@
 - An ERP system such as SAP ERP treats a sale as a sequence of related
   functions:
   - Including: taking orders, setting prices, checking products availability,
-    checking the customer's credit line, arranging for deliveyr, billing the
+    checking the customer's credit line, arranging for delivery, billing the
     customer, and collecting payment.
   - In SAP ERP, all these transactions, or documents, are electronically linked.

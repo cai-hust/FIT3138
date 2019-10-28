@@ -3,7 +3,7 @@
 ## Objectives
 
 - Identify the factors that led to the development of Enterprise Resource Planning (ERP) systems
-- Describe the distinguishing modular charactersistics of ERP software
+- Describe the distinguishing modular characteristics of ERP software
 - Discuss the pros and cons of implementing an ERP system
 - Summarise ongoing developments in ERP
 
