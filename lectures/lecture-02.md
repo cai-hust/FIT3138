@@ -43,8 +43,11 @@ Business process:
 ### Functional Areas of Operation
 
 - Marketing and Sales (M/S)
+
 - Supply Chain Management (SCM)
+
 - Accounting and Finance (A/F)
+
 - Human Resources (HR) Business functions: Activities specific to a functional
   area of operation.
 
@@ -54,6 +57,7 @@ Business process:
 
 - Better integration of functional areas leads to improvements in communication,
   workflow, and success of company.
+
 - Information system (IS):Computers, people, procedures, and software that
   store, organise, and deliver information.
 
@@ -66,7 +70,9 @@ Business process:
 
 - Thinking in terms of business processes helps managers to look at their
   organisation from the customer's perspective.
+
 - Businesses must always consider customer's viewpoint in any transaction
+
 - Successful customer interaction
 
   - Customer (either internal or external) is not required to interact with each
@@ -74,9 +80,12 @@ Business process:
 
 - Successful business managers view business operations from the perspective of
   a satisfied customer.
+
 - Sharing data effectively and efficiently between and within functional areas
   leads to more efficient business processes
+
 - Integrated information systems:Systems in which functional areas share data
+
 - Businesses take inputs (resources) and transform these inputs into goods and
   services for customers
 
@@ -107,8 +116,11 @@ Business process:
 - Marketing and Sales tasks for the coffee shop
 
   - Formal recordkeeping not required
+
   - Need to keep track of customers
+
   - Product development can be done informally
+
   - Good repeat customers allow to charge purchases --- up to a point
 
     - Records must show how much each customer owes and his or her available
@@ -142,6 +154,7 @@ Business process:
 
 - Raw data:Numbers collected from sales, manufacturing and other operations,
   without any implementation, calculation, or arrangement for presentation.
+
 - Data from Accounting and Finance used by Marking and Sales and SCM
 
   - Sales records are important component of sales forecast
@@ -158,6 +171,7 @@ Business process:
 
 - HR uses sales forecasts developed by the individual departments to plan
   personnel needs
+
 - Systems integrated using ERP software provide the data sharing necessary
   between functional areas
 
@@ -170,8 +184,10 @@ Business process:
 ### Marketing and Sales
 
 - Needs information from all functional areas
+
 - Customers communicate areas to M/S in person or by telephone, e-mail, fax, the
   Web, etc.
+
 - M/S has a role in determining product prices
 
   - Pricing might be determined based on a product's unit cost, plus some
@@ -180,6 +196,7 @@ Business process:
 
 - M/S needs to interact with HR to exchange information on hiring needs, legal
   requirements, etc.
+
 - Inputs for M/S
 
   - Customer data
@@ -197,8 +214,10 @@ Business process:
 ### Supply Chain Management
 
 - Needs information from various functional areas
+
 - Production plans based on information about product sales (actual and
   projected) that comes from Marketing and Sales.
+
 - With accurate data about required production levels:
 
   - Raw material and packaging can be ordered as needed
@@ -211,6 +230,7 @@ Business process:
     produced and shipped
 
 - SCM interacts in some ways with HR
+
 - Inputs for SCM
 
   - Product sales data
@@ -229,6 +249,7 @@ Business process:
 ### Accounting and Finance
 
 - Needs information from other functional areas
+
 - A/F personnel:
 
   - Record company's transactions in the books of account
@@ -244,6 +265,7 @@ Business process:
   - HR provides payroll and benefit expense data
 
 - M/S personnel require data form A/F to evaluate customer credit
+
 - Inputs for A/F:
 
   - Payments from customers
@@ -262,13 +284,18 @@ Business process:
 ### Human Resources
 
 - HR needs information from other departments
+
 - Tasks related to employee hiring, benefits, training, and government
   compliance are all responsibilities of HR
+
 - HR needs accurate forecasts of personnel needs from all functional units
+
 - HR needs to know what skills are needed to perform a particular job and how
   much the company can afford to pay employees
+
 - Observing governmental regulations in recruiting, training, compensating,
   promoting, and terminating employees
+
 - Inputs for HR
 
   - Personnel forecasts
@@ -283,8 +310,10 @@ Business process:
 
 - Significant amount of data is maintained by and shared among the functional
   areas
+
 - Timeliness and accuracy of these data critical to each area's success and to
   company's ability to make a profit and generate future growth
+
 - ERP software allows all functional areas to share a common database
 
   - Allows accurate, real-time information to be available
@@ -293,20 +322,26 @@ Business process:
 
 - Basic functional areas: Marketing and Sales, Supply Chain Management,
   Accounting and Finance, and Human Resources.
+
 - Marketing and Sales: Sets product prices, promotes products through
   advertising and marketing, takes customer orders, supports customers, and
   creates sales forecasts.
+
 - Supply Chain Management: Develops production plans, orders raw materials from
   suppliers, receives raw material, manufactures products, maintains facilities,
   and ships products to customers.
+
 - Accounting and Finance: Financial accounting to provide summaries of
   operational data in managerial reports, controlling accounts, planning and
   budgeting, and cash-flow management.
+
 - Human Resourcing: Recruits, hires, trains, and compensates employees, ensures
   compliance with government regulations, and oversees the evaluation of
   employees
+
 - Information systems capture, process, and store data to provide information
   needed for decision making.
+
 - Employees working in one functional area need data from employees in other
   functional areas
 

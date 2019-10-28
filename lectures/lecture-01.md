@@ -61,12 +61,15 @@ Data input -> Process data -> Meaningful output
 Key Enterprise System Characteristics
 
 - Links all business processes automatically
+
 - Utilises best business process practices
+
 - Reduces inter-processing time
 
   - transactions occur one time at the source
 
 - Maintains an audit trail of all transactions
+
 - Utilises a common database for
 
   - Master data
@@ -75,12 +78,14 @@ Key Enterprise System Characteristics
 
 - Performs internal conversions automatically (tax, foreign currency, legal
   rules for payroll)
+
 - Uses current technology
 
 ## What does an enterprise system do?
 
 - Brings together previously isolated information systems with the goal of
   providing a more whole or complete information resource.
+
 - This integration includes bringing together:
 
   - People
@@ -93,6 +98,7 @@ Key Enterprise System Characteristics
 ## The case for enterprise integration
 
 - Integrated enterprise systems are often achieved using ERP software.
+
 - Originally systems very often worked in silos:
 
   - No connection with other systems in the organisation (isolated)
@@ -142,10 +148,13 @@ Key Enterprise System Characteristics
     disparate and disjointed, and seamlessly integrating and coordinating them.
 
 - Facilitate more efficient completion of day-to-day tasks.
+
 - Reduce the redundant and overlapping activities that waste time and money by
   standardising core procedures.
+
 - Eliminate data silos by creating a single, centralised repository of timely,
   accurate business data.
+
 - Enable more effective resource allocation and management.
 
 ## Technology and the Real-time
