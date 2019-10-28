@@ -172,8 +172,7 @@ Enterprises need to have a 3-step framework:
   and internal information that is relevant;
 - "Analyse" component that helps analyse the information, identify patterns,
   forecast and predict likely impacts and consequences;
-- "Respond" component that determines the best possible response based on the
-  analysis of the relevant information and executes the determined response.
+- "Respond" component that determines the best possible response based on the analysis of the relevant information and executes the determined response.
 
 ## Characteristics of Real-time Enterprise
 
