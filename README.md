@@ -2,4 +2,4 @@
 
 ## Lectures
 
-- [Lecture 4](/lectures/lecture-04.md)
+- [Lecture 4](lectures/lecture-04.md)
