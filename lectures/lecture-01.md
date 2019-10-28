@@ -12,9 +12,7 @@ tags: [Notebooks/Computer Science Degree, Lectures]
 - Explain terminology specific to Enterprise Systems.
 - Identify Enterprise system drivers.
 - Explain Enterprise system beliefs.
-- Discuss how technological advancement forge the way for real-time enterprise
-  systems in support of current market behaviours of "Online connectivity,
-  real-time response and in-context performance".
+- Discuss how technological advancement forge the way for real-time enterprise systems in support of current market behaviours of "Online connectivity, real-time response and in-context performance".
 - Discuss the framework for harnessing Real-time Enterprise ---
   "Sense-Analyse-Response".
 - Describe characteristics of real-time Enterprise systems.
@@ -46,17 +44,11 @@ Data input -> Process data -> Meaningful output
   integrated, real time information system responsible for transaction
   processing across all business areas of the organisation”
 - It is made up of a series of “modules”, or applications that are seamlessly
-  linked together through a common database, an ERP system enables various
-  departments or operating units such as Accounting and Finance, Human
-  Resources, Production, and sales and Distribution to coordinate activities,
-  share information, and collaborate with customers, vendors etc
+  linked together through a common database, an ERP system enables various departments or operating units such as Accounting and Finance, Human Resources, Production, and sales and Distribution to coordinate activities, share information, and collaborate with customers, vendors etc
 
 ## What is "Real-time Enterprise"?
 
-> “...transactions are executed by straight through processing; information is
-> captured at point of origin through reality online; and databases are updated
-> continuously, shared and mined in ways that makes their content more
-> meaningful and more actionable.” (Chorafas, D.N. The Real-Time Enterprise)
+> “...transactions are executed by straight through processing; information is captured at point of origin through reality online; and databases are updated continuously, shared and mined in ways that makes their content more meaningful and more actionable.” (Chorafas, D.N. The Real-Time Enterprise)
 
 Key Enterprise System Characteristics
 
@@ -103,10 +95,8 @@ Key Enterprise System Characteristics
 
   - No connection with other systems in the organisation (isolated)
   - No sharing of data (isolated data)
-  - Management had difficulty obtaining accurate data in a timely and efficient
-    manner.
-  - Too many legacy systems --- getting too old to funciton effectively and not
-    economically viable to maintain.
+  - Management had difficulty obtaining accurate data in a timely and efficient manner.
+  - Too many legacy systems --- getting too old to funciton effectively and not economically viable to maintain.
   - Not able to keep up with their competitors/rivals in the market place.
   - Not agile enough to change direction.
   - Economic downturn.
@@ -144,13 +134,11 @@ Key Enterprise System Characteristics
 - Enhance all aspects of key operations across a company's entire back-office -
 
   - from planning through execution, management, and control.
-  - They accomplish this by taking processes and functions that were previously
-    disparate and disjointed, and seamlessly integrating and coordinating them.
+  - They accomplish this by taking processes and functions that were previously disparate and disjointed, and seamlessly integrating and coordinating them.
 
 - Facilitate more efficient completion of day-to-day tasks.
 
-- Reduce the redundant and overlapping activities that waste time and money by
-  standardising core procedures.
+- Reduce the redundant and overlapping activities that waste time and money by standardising core procedures.
 
 - Eliminate data silos by creating a single, centralised repository of timely,
   accurate business data.
@@ -159,12 +147,9 @@ Key Enterprise System Characteristics
 
 ## Technology and the Real-time
 
-- Real-Time computing was applied to Real-Time Operating Systems (RTOS) in most
-  aerospace, medical or automotive industries.
-- Real-Time now has started to extend into the realm of applications, middleware
-  and even business processes.
-- Businesses now need to have a clear understanding of the most effective way to
-  leverage technology to compete in the current market which is characterised by
+- Real-Time computing was applied to Real-Time Operating Systems (RTOS) in most aerospace, medical or automotive industries.
+- Real-Time now has started to extend into the realm of applications, middleware and even business processes.
+- Businesses now need to have a clear understanding of the most effective way to leverage technology to compete in the current market which is characterised by
   "Online connectivity, real-time response and in-context performance."
 - Today's businesses need to extend their focus to protect their revenues and to
   differentiate themselves

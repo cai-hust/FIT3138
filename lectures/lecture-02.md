@@ -55,8 +55,7 @@ Business process:
 
   - Each requires data from others
 
-- Better integration of functional areas leads to improvements in communication,
-  workflow, and success of company.
+- Better integration of functional areas leads to improvements in communication, workflow, and success of company.
 
 - Information system (IS):Computers, people, procedures, and software that
   store, organise, and deliver information.
@@ -78,16 +77,14 @@ Business process:
   - Customer (either internal or external) is not required to interact with each
     business function involved in the process
 
-- Successful business managers view business operations from the perspective of
-  a satisfied customer.
+- Successful business managers view business operations from the perspective of a satisfied customer.
 
 - Sharing data effectively and efficiently between and within functional areas
   leads to more efficient business processes
 
 - Integrated information systems:Systems in which functional areas share data
 
-- Businesses take inputs (resources) and transform these inputs into goods and
-  services for customers
+- Businesses take inputs (resources) and transform these inputs into goods and services for customers
 
   - Inputs: Material, people, equipment
 
@@ -99,8 +96,7 @@ Business process:
 - Example: A fictitious coffee shop
 
   - Examine business processes of the coffee shop
-  - See why coordination of functional areas help achieve efficient and
-    effective business processes
+  - See why coordination of functional areas help achieve efficient and effective business processes
   - Look at how integration of the information system improves the business.
 
 ### Marketing and Sales
@@ -123,8 +119,7 @@ Business process:
 
   - Good repeat customers allow to charge purchases --- up to a point
 
-    - Records must show how much each customer owes and his or her available
-      credit.
+    - Records must show how much each customer owes and his or her available credit.
 
 ### Supply Chain Management
 
@@ -139,8 +134,7 @@ Business process:
 
 - Production plans used to develop requirements for raw materials and packaging
 
-  - Raw materials: bottled spring water, fresh lemons, artificial sweetener, raw
-    sugar.
+  - Raw materials: bottled spring water, fresh lemons, artificial sweetener, raw sugar.
   - Packaging: Cups, straws, napkins
 
 - SCM and M/S must choose a recipe for each coffee product sold
@@ -160,8 +154,7 @@ Business process:
   - Sales records are important component of sales forecast
   - Sales forecast is used in making staffing decisions and in production
     planning
-  - Records from accounts receivable used to monitor the overall credit-granting
-    policy of the coffee shop
+  - Records from accounts receivable used to monitor the overall credit-granting policy of the coffee shop
 
 ### Human Resources
 
@@ -185,8 +178,7 @@ Business process:
 
 - Needs information from all functional areas
 
-- Customers communicate areas to M/S in person or by telephone, e-mail, fax, the
-  Web, etc.
+- Customers communicate areas to M/S in person or by telephone, e-mail, fax, the Web, etc.
 
 - M/S has a role in determining product prices
 
@@ -253,10 +245,8 @@ Business process:
 - A/F personnel:
 
   - Record company's transactions in the books of account
-  - Record accounts payable when raw materials are purchased and cash outflows
-    when they pay for materials
-  - Summarise transactional data to prepare reports about company's financial
-    position and profitability
+  - Record accounts payable when raw materials are purchased and cash outflows when they pay for materials
+  - Summarise transactional data to prepare reports about company's financial position and profitability
 
 - People in other functional areas provide data to A/F
 
@@ -290,8 +280,7 @@ Business process:
 
 - HR needs accurate forecasts of personnel needs from all functional units
 
-- HR needs to know what skills are needed to perform a particular job and how
-  much the company can afford to pay employees
+- HR needs to know what skills are needed to perform a particular job and how much the company can afford to pay employees
 
 - Observing governmental regulations in recruiting, training, compensating,
   promoting, and terminating employees
@@ -327,26 +316,20 @@ Business process:
   advertising and marketing, takes customer orders, supports customers, and
   creates sales forecasts.
 
-- Supply Chain Management: Develops production plans, orders raw materials from
-  suppliers, receives raw material, manufactures products, maintains facilities,
-  and ships products to customers.
+- Supply Chain Management: Develops production plans, orders raw materials from suppliers, receives raw material, manufactures products, maintains facilities, and ships products to customers.
 
 - Accounting and Finance: Financial accounting to provide summaries of
   operational data in managerial reports, controlling accounts, planning and
   budgeting, and cash-flow management.
 
-- Human Resourcing: Recruits, hires, trains, and compensates employees, ensures
-  compliance with government regulations, and oversees the evaluation of
-  employees
+- Human Resourcing: Recruits, hires, trains, and compensates employees, ensures compliance with government regulations, and oversees the evaluation of employees
 
 - Information systems capture, process, and store data to provide information
   needed for decision making.
 
-- Employees working in one functional area need data from employees in other
-  functional areas
+- Employees working in one functional area need data from employees in other functional areas
 
-  - Functional area information systems should be integrated, so shared data are
-    accurate and timely
+  - Functional area information systems should be integrated, so shared data are accurate and timely
 
 - Managers think in terms of business processes that integrate the functional
   areas

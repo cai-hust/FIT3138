@@ -27,17 +27,13 @@ On successful completion of this unit, students should be able to:
   flexibility, interactive processing, client-server platform, cloud computing,
   SOA, open systems, and the capacity to be configured for all business types;
 - discuss implementation project team responsibilities, the importance of clear
-  communication, people handling and team management skills that are required of
-  an enterprise systems implementation/project manager using examples from
-  actual business cases;
+  communication, people handling and team management skills that are required of an enterprise systems implementation/project manager using examples from actual business cases;
 - critically discuss the major factors that impact on stakeholders during an
   enterprise system implementation that can influence the project triple
   constraints and business success identified from both theoretical knowledge
   and actual business cases;
-- demonstrate a capacity to describe and perform navigation functions and create
-  master data objects in an enterprise systems system;
-- describe system-wide concepts such as workflow, reporting, and the exchange of
-  information between business partners and employees;
+- demonstrate a capacity to describe and perform navigation functions and create master data objects in an enterprise systems system;
+- describe system-wide concepts such as workflow, reporting, and the exchange of information between business partners and employees;
 - explain the stages of an enterprise systems implementation lifecycle with
   particular focus on continuous change with regard to enhancement packs,
   upgrades, and new versions.
