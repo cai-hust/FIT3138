@@ -2,4 +2,5 @@
 
 ## Lectures
 
+- [Lecture 3](lectures/lecture-03.md)
 - [Lecture 4](lectures/lecture-04.md)
