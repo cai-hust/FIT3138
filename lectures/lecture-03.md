@@ -90,10 +90,10 @@
 - ERP systems provide real-time data
   - Improve external customer communications.
 
-### How Long Does it Take to See a Return on an ERP Investement?
+### How Long Does it Take to See a Return on an ERP Investment?
 
 - **Return on investment (ROI)**: assessment of an investment project's value
-  - Calculated by dividing the value of the project's benefits by hte projects's
+  - Calculated by dividing the value of the project's benefits by the project's
     cost.
 - ERRP system's ROI can be difficult to calculate
 - Peerstone Research study
