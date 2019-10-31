@@ -23,7 +23,8 @@
 
 - Clerks can manually make adjustments for partial shipments and any other
   changes.
-- Sometimes, order corrections are delayed and don’t catch up to the invoicing process
+- Sometimes, order corrections are delayed and don’t catch up to the invoicing
+  process
   - results in late or inaccurate invoices.
 
 ### Payment and Returns
@@ -31,7 +32,8 @@
 - Problems with procedure for processing payments
   - if any errors have occurred in the sales process, customer will receive an
     incorrect invoice
-  - many customers don’t return a copy of the invoice with their payment; errors can result.
+  - many customers don’t return a copy of the invoice with their payment; errors
+    can result.
 - If a customer’s account has not been properly credited, customer may receive a
   dunning letter in error.
 
@@ -78,9 +80,11 @@
     - On-site meeting
     - Letters
     - Campaign communication
-  - Implementing and tracking direct mailing, internet, and trade fair campaigns based on customer attributes.
+  - Implementing and tracking direct mailing, internet, and trade fair campaigns
+    based on customer attributes.
 - Pre-sales documents need to be managed within the presales activities:
-  Inquiries and Quotations. These documents help identify possible sales related activities and determine sales probability.
+  Inquiries and Quotations. These documents help identify possible sales related
+  activities and determine sales probability.
 - The ultimate goal of all pre-sales activities is to equip the sales technician
   with all the information necessary to negotiate and complete the potential
   sale.
@@ -91,7 +95,7 @@
   - General Company info
   - Credit limits and usage
   - Current back-orders
-- $360 \degree$ view of your customer.
+- $360^{\circ}$ view of your customer.
 
 ### Inquiry
 
@@ -105,7 +109,9 @@
 
 ### Quotation
 
-- The quotation presents the customer with a legally binding offer to deliver specific products or a selection of a certain amount of products in a specified time frame at a pre-defined price.
+- The quotation presents the customer with a legally binding offer to deliver
+  specific products or a selection of a certain amount of products in a
+  specified time frame at a pre-defined price.
 
 ### Sales Order Processing
 
@@ -120,7 +126,8 @@
   - Determining the selling price
   - Recording the order quantities.
 - Users can define various pricing alternatives in the SAP ERP system
-- SAP ERP system checks the Accounts Receivable tables in the SAP ERP database to confirm the customer's available credit.
+- SAP ERP system checks the Accounts Receivable tables in the SAP ERP database
+  to confirm the customer's available credit.
 - If the customer has sufficient credit available:
   - Order is completed
 - If the customer does not have sufficient credit available
@@ -148,11 +155,11 @@
 - The system will determine this date using forward and backward scheduling
   rules you have defined.
 
-#### Backward Scheduling
+#### Backward Scheduling\
 
 ![](https://i.loli.net/2019/10/28/HmJ4egMDl2UdT3W.png)
 
-#### Forward Scheduling
+#### Forward Scheduling\
 
 ![forward scheduling](https://i.loli.net/2019/10/28/HcmCl2T4Sujby7W.png)
 
@@ -167,7 +174,8 @@
 
 ### Pricing
 
-- The system displays pricing information for all sales documents on the pricing screens at both the header and the line item level.
+- The system displays pricing information for all sales documents on the pricing
+  screens at both the header and the line item level.
   - Header pricing is valid for the whole order it is the cumulative of all line
     items within the order
   - Line item pricing is for each specific material.
@@ -179,7 +187,8 @@
 
 ### Credit Check
 
-- Allows your company to manage its credit exposure and risk for each customer by specifying credit limits.
+- Allows your company to manage its credit exposure and risk for each customer
+  by specifying credit limits.
 - During the sales order process the system will alert the sales rep about the
   customers credit situation that arises, if necessary the system can be
   configured to block orders and deliveries.
@@ -187,7 +196,8 @@
 ### Inventory Sourcing
 
 - Available-to-Promise (ATP) check
-  - SAP ERP system checks company's inventory records and production planning records to see whether:
+  - SAP ERP system checks company's inventory records and production planning
+    records to see whether:
     - Requested material is available
     - Requested material can be delivered on the date the customer desires
   - Includes expected shipping time
@@ -206,7 +216,9 @@
 
 ### Delivery (Shipping)
 
-- The shipping process begins when the delivery document for the sales order is created. This document controls, supports, and monitors numerous sub-processes for shipping processing:
+- The shipping process begins when the delivery document for the sales order is
+  created. This document controls, supports, and monitors numerous sub-processes
+  for shipping processing:
   - Picking
   - Packing
   - Post Goods Issue
@@ -228,12 +240,13 @@
 - The billing document is created by copying data from:
   - The sales order (Order-based billing), and/or
   - The delivery document (Delivery-based billing)
-- The billing process is used to generate customer invoice which can be mailed, faxed, or transmitted electronically to the customer.
+- The billing process is used to generate customer invoice which can be mailed,
+  faxed, or transmitted electronically to the customer.
 - It will update the customer's credit status.
 - The billing document will automatically create a debit posting to your
   customer sub-ledger account and credit your revenue account.
-- At this point that the sales process is passed over to Financial Accounting
-  to await payment.
+- At this point that the sales process is passed over to Financial Accounting to
+  await payment.
 
 ### Payment (Receipt)
 
@@ -251,22 +264,27 @@
 
 ### Document Flow
 
-- When a sales order is saved, SAP ERP system assigns a document number to the sales order transaction.
+- When a sales order is saved, SAP ERP system assigns a document number to the
+  sales order transaction.
 - SAP ERP system keeps track of the document numbers for the sales order
-  - Employees can track status of an order while it is in process or research it after shipping
+  - Employees can track status of an order while it is in process or research it
+    after shipping
 - **Document flow** in SAP ERP: linked set of document numbers related to an
   order.
 
 ## Customer Relationship Management
 
-- Companies without a good connection between their workers and their customers run the risk of losing business.
+- Companies without a good connection between their workers and their customers
+  run the risk of losing business.
 - **Customer relationship management (CRM) software** can help companies
   streamline their interactions with customers.
 - Examples of tools that provide CRM functionality within the SAP ERP system:
   - Contact management tool
-    - To make sure that information about sales contacts is available throughout the organisation
+    - To make sure that information about sales contacts is available throughout
+      the organisation
   - Sales activity manager
-    - Supports a strategic and organised approach to sales activity planning and can help make sure that follow-up activities are accomplished.
+    - Supports a strategic and organised approach to sales activity planning and
+      can help make sure that follow-up activities are accomplished.
 
 ### The Benefits of CRM
 
